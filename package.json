@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/mi-espacio-umm",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a mi-espacio-umm",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/mi-espacio-umm.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://tagbookmarks.info/es/mi-espacio-umm/"
+    },
+    "homepage": "https://tagbookmarks.info/es/mi-espacio-umm/"
+}
